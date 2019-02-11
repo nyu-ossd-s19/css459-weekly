@@ -21,5 +21,5 @@ Replace the first row with your contribution.
 | Week #       | Contribution (Link)  | Type  | Description | 
 |---|:---|:---|:---| 
 |  2   | https://github.com/nyu-ossd-s19/anthonykyi-weekly/issues/1   | Student Blog    |   Fixed broken CSS and page linking    |
-|     |     |     |      |
+|  3   |  https://www.reddit.com/r/SolusProject/comments/aphoju/apparmor_as_orphaned_dependency/   |  Reddit Support Post (Solus)   |  Fixed needed orphaned dependency issue with recent Solus update   |
 |     |     |     |      |
