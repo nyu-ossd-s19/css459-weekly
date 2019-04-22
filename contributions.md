@@ -16,3 +16,4 @@ permalink: /contributions/
 | 8  | [Link](https://github.com/scikit-learn/scikit-learn/pull/13535) | SKLearn | Created Pull Request for above entry |
 | 11 | [Link](https://github.com/nyu-ossd-s19/scikit-learn/commit/fca88dcdc9da487281c5b495197780925d7de5fe) | SKLearn | Added kernel section to glossary |
 | 11 | [Link](https://github.com/nyu-ossd-s19/scikit-learn/commit/c3899da7139cded678864c2977c678763af5ff1a) | SKLearn | Fixed formatting, spelling, and other errors from new glossary section (all additions) |
+| 12 | [Link](https://en.wikipedia.org/wiki/Special:Contributions/Css459) | Wikipedia | Fixed and added links on the Inner-Source page |
