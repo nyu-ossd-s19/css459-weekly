@@ -17,4 +17,5 @@ permalink: /contributions/
 | 11 | [Link](https://github.com/nyu-ossd-s19/scikit-learn/commit/fca88dcdc9da487281c5b495197780925d7de5fe) | SKLearn | Added kernel section to glossary |
 | 11 | [Link](https://github.com/nyu-ossd-s19/scikit-learn/commit/c3899da7139cded678864c2977c678763af5ff1a) | SKLearn | Fixed formatting, spelling, and other errors from new glossary section (all additions) |
 | 12 | [Link](https://en.wikipedia.org/wiki/Special:Contributions/Css459) | Wikipedia | Fixed and added links on the Inner-Source page |
-| 12 | [Link](https://dev.getsol.us/T7515) | Solus Project | Added comment to packaging issue I open awhile ago |
+| 12 | [Link](https://dev.getsol.us/T7515) | Solus Project | Added comment to packaging issue I opened awhile ago |
+| 13 | [Link](https://github.com/scikit-learn/scikit-learn/issues/13745) | Scikit-Learn | Opened issue, made followup comments on issue |
